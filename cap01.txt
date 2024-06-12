@@ -1,6 +1,7 @@
 Cap-01
 Era uma vez uma princesa que prendia um dragao em um castelo
 
+--//-- Sidestory
 
---??--
-Será que virão alterar esse inicio em outro reino??
+Enquanto isso em QuixeramuKingdom o QuixeramuKing esperavaseu filho retornar de uma missão tensa
+>>>>>>> sideStory
